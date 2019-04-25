@@ -1,6 +1,7 @@
-# electron-vue-typescript
+# :nut_and_bolt: Electron-Vue-TypeScript
 
-> An electron-vue-typescript starter
+基于 `electron-vue`改造，加入了`typescript`支持，并将大部分软件升级到较新版本
+方便大家快速搭建基于 `electron`, `vue`, `typescript`的应用
 
 ## Build Setup
 
